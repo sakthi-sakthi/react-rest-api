@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "name": "Sakthi Ganapathi S",
+      "age": "20",
+      "gender": "Male",
+      "mobile": "8870656056",
+      "id": 1
+    },
+    {
+      "name": "Thirumalai",
+      "age": "18",
+      "gender": "Male",
+      "mobile": "9856412307",
+      "id": 2
+    },
+    {
+      "name": "Jerome Jermanus",
+      "age": "26",
+      "gender": "Male",
+      "mobile": "9854123607",
+      "id": 3
+    },
+    {
+      "name": "Elango",
+      "age": "24",
+      "gender": "Male",
+      "mobile": "8956412307",
+      "id": 4
+    },
+    {
+      "name": "Muniraj",
+      "age": "21",
+      "gender": "Male",
+      "mobile": "9856231047",
+      "id": 5
+    },
+    {
+      "name": "Savari Irudaya Raj",
+      "age": "26",
+      "gender": "Male",
+      "mobile": "7894561230",
+      "id": 6
+    },
+    {
+      "name": "Dona Mercy",
+      "age": "29",
+      "gender": "Female",
+      "mobile": "8956231047",
+      "id": 8
+    },
+    {
+      "name": "Vinnarasi",
+      "age": "28",
+      "gender": "Female",
+      "mobile": "8956741230",
+      "id": 9
+    },
+    {
+      "name": "Kanish",
+      "age": "20",
+      "gender": "Male",
+      "mobile": "98556231047",
+      "id": 10
+    }
+  ]
+}
